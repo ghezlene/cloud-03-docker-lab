@@ -1,6 +1,9 @@
 [← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
 
-# Docker and Containerization Lab
+# Docker and Containerization Lab ![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat&labelColor=555555)
+<!-- planned ![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat&labelColor=555555)--> 
+<!-- learning  ![Status](https://img.shields.io/badge/Status-Learning-blue?style=flat&labelColor=555555)-->
+<!-- completed ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat&labelColor=555555)--> 
 
 > Package applications and their dependencies into reproducible, portable containers.
 
