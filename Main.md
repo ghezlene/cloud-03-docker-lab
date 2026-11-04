@@ -72,4 +72,7 @@ The docker client communicates with the docker doemon through Docker API. The da
 | containerd | manages container lifecycle operations | 
 | runc | Creates and runs containers according to OCI specificaations |
 
+### Architecture Documentation 
 
+- [Detailed Docker architecture](architecture/architecture.md)
+- [Architecture Commands](architecture/commands.md)
